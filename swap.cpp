@@ -13,5 +13,7 @@ int main()
     cout << "x is " << x << endl;
     cout << "y is " << y << endl;
 
+    cout << "new line" << endl;
+
     return 0;
 }
