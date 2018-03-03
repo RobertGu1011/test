@@ -15,5 +15,7 @@ int main()
 
     cout << "new line" << endl;
 
+    cout << "new new line" << endl;
+
     return 0;
 }
